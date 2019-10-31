@@ -3,15 +3,15 @@ Website blocker made with the instruction of a Udemy course. A python script tha
 
 Step 1: (Download Zip)
 
-Step 2: Go to your downloads folder and select website-blocker-master
+Step 2: Go to your downloads folder and select Website-Blocker-master
 
 Step 3: Open your (terminal or command line) and at the (bash$ line) or (cmd) type cd Downloads and press enter
 
 Step 4: Type ls and press enter
 
-Step 5: Press command F (Mac users) and type website. Highlight and copy website-blocker-master download.
+Step 5: Press command F (Mac users) and type website. Highlight and copy Website-Blocker-master download.
 
-Step 7: Type cd and paste(website-blocker-master) and press enter (i.e. cd website-blocker-master)
+Step 7: Type cd and paste(Website-Blocker-master) and press enter (i.e. cd Website-Blocker-master)
 
 Step 8: Type sudo nano /etc/hosts (To check the status of your host file) and press control x to exit 
 
