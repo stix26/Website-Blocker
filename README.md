@@ -1,5 +1,5 @@
 # Website-Blocker
-Python script that blocks websites during working hours
+Website blocker made with the instruction of a Udemy course. A python script that blocks websites during working hours.
 
 Step 1: (Download Zip)
 
