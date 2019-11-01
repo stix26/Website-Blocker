@@ -33,6 +33,8 @@ Step 5: Scroll to the bottom of the screen and type @reboot python 3 directory p
 
 Step 6: Press control x and control y then press enter to save the changes
 
+Step 7: Restart computer
+
 Tip: To add different websites to the website blocker application on line 7 of the website_blocker.py script enter the site within the brackets adjacent to website_list variable. For example: website_list=["espn.com", "twitter.com"]
 
 Also if the script doesn't automatically block the intended site try restarting your browser. 
